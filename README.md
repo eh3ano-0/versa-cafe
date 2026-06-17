@@ -3,6 +3,8 @@
 
 اجرا شده با flask
 برای ران کردن:
+
+
 flask run 
 or
 python app.py
